@@ -13,3 +13,7 @@ Software Developer dedicated to crafting robust applications and diving deep int
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+[![Dario's GitHub stats](https://github-stats-extended.vercel.app/api?username=darioguidi)](https://github.com/stats-organization/github-stats-extended)
