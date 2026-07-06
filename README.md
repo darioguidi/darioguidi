@@ -4,4 +4,4 @@ Software Developer con la passione per la creazione di applicazioni robuste e pe
 ---
 
 ## Competenze Tecniche
-<img src="https://skillicons.dev/icons?i=c,java,js,html,css&theme=light" width="400" />
+<img src="https://skillicons.dev/icons?i=c,java,js,html,css&theme=light" width="200" />
